@@ -1,0 +1,84 @@
+#JavaScript-showing {
+  display: none;
+}
+
+#Operators-showing {
+  display: none;
+}
+
+#Variables-showing {
+  display: none;
+}
+
+#Variable-naming-conventions-showing {
+  display: none;
+}
+
+#Functions-showing {
+  display: none;
+}
+
+#Methods-showing {
+  display: none;
+}
+
+#Arguments-showing {
+  display: none;
+}
+
+#Parameters-showing {
+  display: none;
+}
+
+#Return-value-showing {
+  display: none;
+}
+
+#Chaining-methods-showing {
+  display: none;
+}
+
+#Strings-showing {
+  display: none;
+}
+
+#Booleans-showing {
+  display: none;
+}
+
+#Undefined-showing {
+  display: none;
+}
+
+#NaN-showing {
+  display: none;
+}
+
+#Null-showing {
+  display: none;
+}
+
+#Alert-showing {
+  display: none;
+}
+
+#Comments-showing {
+  display: none;
+}
+
+#jQuery-showing {
+  display: none;
+}
+
+#Attributes-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
